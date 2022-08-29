@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/parrot-friendship-society-react-app/static/css/main.bf7a0ebc.css",
+    "main.js": "/parrot-friendship-society-react-app/static/js/main.eb8c79da.js",
+    "static/media/Roboto-Slab.woff": "/parrot-friendship-society-react-app/static/media/Roboto-Slab.f1b4b1a2d879a9b7382b.woff",
+    "static/media/Roboto.woff": "/parrot-friendship-society-react-app/static/media/Roboto.59d18e163bfcd0607572.woff",
+    "static/media/404.svg": "/parrot-friendship-society-react-app/static/media/404.8501066b9acb1d99215b3514b07d7caa.svg",
+    "static/media/birds.svg": "/parrot-friendship-society-react-app/static/media/birds.38005648452c9ab816f6a9667304ff33.svg",
+    "index.html": "/parrot-friendship-society-react-app/index.html",
+    "main.bf7a0ebc.css.map": "/parrot-friendship-society-react-app/static/css/main.bf7a0ebc.css.map",
+    "main.eb8c79da.js.map": "/parrot-friendship-society-react-app/static/js/main.eb8c79da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7a0ebc.css",
+    "static/js/main.eb8c79da.js"
+  ]
+}
