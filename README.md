@@ -1,3 +1,3 @@
-[View Live Page](https://kerwindows.github.io/parrot-friendship-society-react-app/).
+[View Live Page](https://kerwindows.github.io/parrot-social-app/).
 
 ## BUilt with ReactJS
