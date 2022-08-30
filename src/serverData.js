@@ -3,8 +3,8 @@ const serverData = {
     {
       "name": "Bill",
 			"id": "0",
-      "profilePicDark":"/profile-images/bill-dark.png",
-      "profilePicLight":"/profile-images/bill-light.png",
+      "profilePicDark":"../../profile-images\bill-light.png",
+      "profilePicLight":"../../profile-images/bill-light.png",
 			"location": "Boise, Idaho",
 			"favBirdQuote": "The early bird gets the worm",
       "parrotsOwned": [
